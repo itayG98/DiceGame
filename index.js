@@ -12,23 +12,23 @@ else {
 }
 switch (randomNumber1) {
     case 1:
-        document.querySelector(".dice1").setAttribute("src", "images/dice1.png")
+        document.querySelector(".dice1").setAttribute("src", "dice1.png")
         document.querySelector(".dice1").alt = ("one")
         break;
     case 2:
-        document.querySelector(".dice1").setAttribute("src", "images/dice2.png")
+        document.querySelector(".dice1").setAttribute("src", "dice2.png")
         document.querySelector(".dice1").alt = ("two")
         break;
     case 3:
-        document.querySelector(".dice1").setAttribute("src", "images/dice3.png")
+        document.querySelector(".dice1").setAttribute("src", "dice3.png")
         document.querySelector(".dice1").alt = ("three")
         break;
     case 4:
-        document.querySelector(".dice1").setAttribute("src", "images/dice4.png")
+        document.querySelector(".dice1").setAttribute("src", "dice4.png")
         document.querySelector(".dice1").alt = ("four")
         break;
     case 5:
-        document.querySelector(".dice1").setAttribute("src", "images/dice5.png")
+        document.querySelector(".dice1").setAttribute("src", "dice5.png")
         document.querySelector(".dice1").alt = ("five")
         break;
     case 6:
@@ -40,23 +40,23 @@ switch (randomNumber1) {
 }
 switch (randomNumber2) {
     case 1:
-        document.querySelector(".dice2").setAttribute("src", "images/dice1.png")
+        document.querySelector(".dice2").setAttribute("src", "dice1.png")
         document.querySelector(".dice2").alt = ("one")
         break;
     case 2:
-        document.querySelector(".dice2").setAttribute("src", "images/dice2.png")
+        document.querySelector(".dice2").setAttribute("src", "dice2.png")
         document.querySelector(".dice2").alt = ("two")
         break;
     case 3:
-        document.querySelector(".dice2").setAttribute("src", "images/dice3.png")
+        document.querySelector(".dice2").setAttribute("src", "dice3.png")
         document.querySelector(".dice2").alt = ("three")
         break;
     case 4:
-        document.querySelector(".dice2").setAttribute("src", "images/dice4.png")
+        document.querySelector(".dice2").setAttribute("src", "dice4.png")
         document.querySelector(".dice2").alt = ("four")
         break;
     case 5:
-        document.querySelector(".dice2").setAttribute("src", "images/dice5.png")
+        document.querySelector(".dice2").setAttribute("src", "dice5.png")
         document.querySelector(".dice2").alt = ("five")
         break;
     case 6:
