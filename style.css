@@ -1,0 +1,30 @@
+/* Tag selectors */
+body {
+    position: relative;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;;
+    background-color: #393E46;
+}
+h1{
+    font-size: 5rem;
+    margin: auto;
+}
+
+/* class selectors  */
+.container {
+    display: inline-flex;
+    margin: auto;
+    min-height: 71vh;
+}
+.dice {
+    margin: 0.5rem;
+    padding: auto;
+}
+.footer {
+    position: absolute ;
+    bottom: 0%;
+    width: 100%;
+    color: darkgray;
+}
+/* id selectors  */
